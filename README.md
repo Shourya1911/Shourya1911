@@ -2,7 +2,7 @@
 
 ### 🎓 B.Tech CSE (Data Science) Student at UPES University
 
-🚀 Passionate about **Data Science, Artificial Intelligence, Machine Learning, and Software Engineering**
+🚀 Building AI & Data Science projects with Python, Machine Learning, and Data Analytics. Currently exploring LLMs, Deep Learning, and Software Development.
 
 ---
 
@@ -13,7 +13,7 @@
 * 📚 Successfully completed 2nd Year
 * 💡 Enthusiastic about solving real-world problems using technology
 * 🌱 Currently learning Machine Learning, AI, and Software Development
-* 🚀 Always exploring new tools and technologies
+* 🚀 Built X+ projects and continuously learning modern AI and software engineering tools.
 
 ---
 
