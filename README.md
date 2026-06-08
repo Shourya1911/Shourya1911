@@ -17,17 +17,6 @@
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-![Shourya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shourya1911&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya1911&layout=compact&theme=tokyonight)
-
----
-
-
 ## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
