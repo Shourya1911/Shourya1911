@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Stats
 
-![Shourya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourya1911&show_icons=true&theme=tokyonight)
+![Shourya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shourya1911&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shourya1911&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya1911&layout=compact&theme=tokyonight)
 
 ---
 
